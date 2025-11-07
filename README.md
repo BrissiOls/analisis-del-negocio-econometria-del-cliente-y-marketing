@@ -1,7 +1,7 @@
 # proyecto_economia_unitaria
 # 📊 Análisis de Economía Unitaria
 
-Este proyecto aplica herramientas de análisis de datos para explorar, visualizar y extraer conclusiones a partir de información relacionada con economía unitaria. Fue desarrollado como parte de mi proceso de formación y transición hacia el área de ciencia de datos, aprovechando mi formación en ingeniería química y mi interés por el análisis cuantitativo.
+Este proyecto se centró en el Análisis de la Economía del Cliente (Customer Economics) y la optimización del presupuesto de marketing. Fue desarrollado en Python empleando librerías esenciales como Pandas y NumPy para la limpieza y procesamiento de grandes volúmenes de datos (registros de visitas, pedidos y costos de adquisición). El objetivo principal fue calcular y analizar métricas clave como el Costo de Adquisición del Cliente (CAC), el Valor de por Vida del Cliente (LTV) y el Retorno de la Inversión en Marketing (ROMI), utilizando Matplotlib y Seaborn para visualizar la rentabilidad de cada fuente de tráfico y guiar las decisiones estratégicas de inversión
 
 ## 🧰 Herramientas utilizadas
 
